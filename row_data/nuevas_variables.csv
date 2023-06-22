@@ -1,0 +1,76 @@
+﻿pais,oleada,cambio_desempleo,cordon_sanitario,gob_actual_DPR,gobierno_DRP,year_DRP
+Alemania,8,-0.87,Sí,Oposicion,No,0
+Alemania,9,-0.61,Sí,Oposicion,No,0
+Austria,3,-0.38,No,Oposicion,Sí,7
+Austria,4,-0.69,No,Oposicion,Sí,7
+Austria,5,0.52,No,Oposicion,Sí,7
+Austria,6,0.28,No,Oposicion,Sí,7
+Austria,7,0.1,No,Oposicion,Sí,7
+Austria,8,-0.22,No,Oposicion,Sí,7
+Austria,9,-1.01,No,Gobierno,Sí,9
+Belgica,2,0.57,Sí,Oposicion,No,0
+Belgica,3,-0.79,Sí,Oposicion,No,0
+Belgica,4,0.83,Sí,Oposicion,No,0
+Belgica,8,-1.34,Sí,Oposicion,No,0
+Belgica,9,-1.73,Sí,Oposicion,No,0
+Dinamarca,1,0.3,No,Apoyo,No,0
+Dinamarca,2,-1.5,No,Apoyo,No,0
+Dinamarca,3,-0.1,No,Apoyo,No,0
+Dinamarca,4,3.85,No,Apoyo,No,0
+Dinamarca,5,-0.37,No,Apoyo,No,0
+Dinamarca,6,-0.45,No,Apoyo,No,0
+Dinamarca,7,-0.55,No,Oposicion,No,0
+Dinamarca,9,-0.81,No,Apoyo,No,0
+España,9,-3.12,No,Oposicion,No,0
+España,10,-1.2,No,Oposicion,No,0
+Finlandia,6,0.47,Sí,Oposicion,No,0
+Finlandia,7,0.72,Sí,Oposicion,No,0
+Finlandia,8,-0.74,Sí,Oposicion,No,0
+Finlandia,9,-1.95,Sí,Oposicion,No,0
+Finlandia,10,0.91,Sí,Oposicion,No,0
+Francia,1,-3.28,Sí,Oposicion,No,0
+Francia,2,0.14,Sí,Oposicion,No,0
+Francia,3,-0.79,Sí,Oposicion,No,0
+Francia,6,0.37,Sí,Oposicion,No,0
+Francia,7,0.06,Sí,Oposicion,No,0
+Francia,8,-0.3,Sí,Oposicion,No,0
+Francia,9,-0.98,Sí,Oposicion,No,0
+Francia,10,-1.11,Sí,Oposicion,No,0
+Italia,1,-2.8,No,Gobierno,Sí,4
+Italia,2,-1.1,No,Gobierno,Sí,6
+Italia,3,-0.7,No,Oposicion,Sí,6
+Italia,6,-3.8,No,Oposicion,Sí,6
+Italia,7,-1.2,No,Oposicion,Sí,6
+Italia,8,-0.7,No,Oposicion,Sí,6
+Italia,9,-1.2,No,Gobierno,Sí,8
+Italia,10,-1.9,No,Gobierno,Sí,11
+Noruega,1,0.9,No,Apoyo,No,0
+Noruega,2,-0.86,No,Oposicion,No,0
+Noruega,3,-1.89,No,Oposicion,No,0
+Noruega,4,1.03,No,Oposicion,No,0
+Noruega,5,0.1,No,Oposicion,No,0
+Noruega,6,-0.82,No,Gobierno,Sí,1
+Noruega,7,-0.82,No,Gobierno,Sí,2
+Noruega,8,0.14,No,Gobierno,Sí,4
+Noruega,9,0.47,No,Gobierno,Sí,6
+Noruega,10,0.49,No,Oposicion,Sí,8
+Paises Bajos,1,0,No,Gobierno,No,1
+Paises Bajos,5,2.25,No,Apoyo,No,1
+Paises Bajos,8,-3.04,No,Oposicion,No,1
+Paises Bajos,9,-1.46,No,Oposicion,No,1
+Paises Bajos,10,-0.13,No,Oposicion,No,1
+Reino Unido,8,-1,Sí,Oposicion,No,1
+Suecia,1,-1.9,Sí,Oposicion,Sí,0
+Suecia,8,-0.7,Sí,Oposicion,Sí,0
+Suecia,9,0.1,Sí,Oposicion,Sí,0
+Suecia,10,-0.7,Sí,Oposicion,Sí,0
+Suiza,1,0.97,Sí,Oposicion,No,0
+Suiza,2,-0.32,Sí,Oposicion,No,0
+Suiza,3,-0.79,Sí,Oposicion,No,0
+Suiza,4,1.15,Sí,Oposicion,No,0
+Suiza,5,0.05,Sí,Oposicion,No,0
+Suiza,6,0.03,Sí,Oposicion,No,0
+Suiza,7,0.03,Sí,Oposicion,No,0
+Suiza,8,0,Sí,Oposicion,No,0
+Suiza,9,0.41,Sí,Oposicion,No,0
+Suiza,10,1.19,Sí,Oposicion,No,0
